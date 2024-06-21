@@ -58,5 +58,5 @@ Working:
         Team details accessible from the main menu, providing a smooth exit from the application.
 
         
-Conclusion:
+*Conclusion*:
             The ZAT Dictionary showcases the fusion of linked lists, trie structures, and dynamic arrays to create a robust and adaptable solution for word management. The trie structure's efficiency in organizing extensive word data makes this dictionary a valuable tool for both users and developers. Explore meanings, update entries, and manage your words effortlessly with the ZAT Dictionary.
