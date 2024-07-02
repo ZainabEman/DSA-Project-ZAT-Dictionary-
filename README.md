@@ -4,8 +4,7 @@ The ZAT Dictionary is a comprehensive C++ project that leverages the trie data s
 
 Project Structure:
 
-Node Class:rom an external text file containing a pre-existing set of words and their          meanings.
-    This initial dataset populates the dictionary, setting the stage for efficient word management.
+Node Class:rom an external text file containing a pre-exthe stage for efficient word management.
 
 Main Interface:
     The main interface serves as a gateway for users to interact with the dictionary, offering operations such as search, update,      delete, add word, and team details.
