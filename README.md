@@ -39,19 +39,7 @@ Exception Handling:
 
 Working:
 
-    Search Function and Suggestions:
-        User-friendly main screen with search functionality and suggestions.
-        
-    Adding Word:
-        Top ten suggestions provided during word addition.
-        
-    Update Function:
-        The confirmation screen appears after entering an update, ensuring a successful word update.
-
-    Delete Function:
-        Confirmation screen appears after entering a delete operation, ensuring a successful word deletion.
-
-    Add Word Function:
+    S
         Confirmation screen appears after entering an add word operation, ensuring successful addition.
 
     Exit Function:
