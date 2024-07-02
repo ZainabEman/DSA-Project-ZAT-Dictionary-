@@ -3,9 +3,7 @@
 The ZAT Dictionary is a comprehensive C++ project that leverages the trie data structure to create a powerful
 Project Structure:
 
-Node Class:rom an external text file containing a pre-exthe stage for efficient word management.
-
-Main Interface:
+Node Class:rom an external text file containing a pre-exthe stage for eff
     The main interface serves as a gateway for users to interact with the dictionary, offering operations such as search, update,      delete, add word, and team details.
     The trie structure ensures optimal efficiency in these operations.
 
