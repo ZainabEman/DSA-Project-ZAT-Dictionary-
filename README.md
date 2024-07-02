@@ -7,14 +7,7 @@ Project Structure:
 Node Class:
     Building bl
     Heart of the dictionary, implementing a trie data structure.
-    Each node can have up to 26 children, creating a hierarchical structure for efficient storage and retrieval.
-    Enables quick and organized representation of the entire dictionary.
-
-Vector Class:
-    Manages dynamic arrays, ensuring flexibility in data size and storage.
-    Contributes to the adaptability of the overall dictionary implementation.
-
-Initialization and Data Loading:
+    Each node can have up to 26 children, creating a hierarchical
     The dictionary is initialized by reading data from an external text file containing a pre-existing set of words and their          meanings.
     This initial dataset populates the dictionary, setting the stage for efficient word management.
 
