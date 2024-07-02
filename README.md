@@ -4,11 +4,7 @@ The ZAT Dictionary is a comprehensive C++ project that leverages the trie data s
 
 Project Structure:
 
-Node Class:
-    Building bl
-    Heart of the dictionary, implementing a trie data structure.
-    Each node can have up to 26 children, creating a hierarchical
-    The dictionary is initialized by reading data from an external text file containing a pre-existing set of words and their          meanings.
+Node Class:rom an external text file containing a pre-existing set of words and their          meanings.
     This initial dataset populates the dictionary, setting the stage for efficient word management.
 
 Main Interface:
