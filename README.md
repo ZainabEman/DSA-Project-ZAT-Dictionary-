@@ -1,7 +1,6 @@
 # DSA-Project-ZAT-Dictionary-
 
-The ZAT Dictionary is a comprehensive C++ project that leverages the trie data structure to create a powerful and efficient tool for managing and exploring word meanings. This project is built on three key classes: Node, Trie, and Vector, working collaboratively to form a feature-rich dictionary capable of fast and reliable access to information.
-
+The ZAT Dictionary is a comprehensive C++ project that leverages the trie data structure to create a powerful and efficient tool for managing and exploring word meanings. This project is built on three key classes: Node, Trie, and Vector,
 Project Structure:
 
 Node Class:rom an external text file containing a pre-exthe stage for efficient word management.
