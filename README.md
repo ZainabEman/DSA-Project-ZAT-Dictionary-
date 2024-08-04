@@ -6,7 +6,7 @@ The ZAT Dictionary is a comprehensive C++ project that leverages the trie data s
 
 ### Node Class
 - **Building block** for linked lists within the dictionary.
-- **Holds character values** and pointers to the next node.
+- **Holds character values** and pointers to the next nodes.
 - **Facilitates** the creation of dynamic data structures.
 
 ### Trie Class
